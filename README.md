@@ -1,1 +1,4 @@
-# 2025573010141_praktikum_algoritma_struktur_data
+## 2025573010141_praktikum_algoritma_struktur_data
+ NAMA :ZAFIR AMAL MAULANA
+ NIM: 2025573010141
+ DEKSRIPSI: SAYA ANAK BAIK
